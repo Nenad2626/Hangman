@@ -1,0 +1,280 @@
+h1  {
+
+text-align: center;
+color: #55ACEE;
+font-family: Verdana;
+
+}
+
+h4  {
+
+display: inline-block;
+text-align: center;
+
+}
+
+img  {
+
+width: 600px;
+height: 550px;
+
+}
+
+.board  {
+
+background: #55ACEE;
+border: 1px solid #55ACEE;
+border-radius: 5px;
+width: 600px;
+height: 550px;
+margin-left: 350px;
+
+}
+
+.word  {
+
+display: inline-block;
+font-family: Verdana;
+font-size: 20px;
+
+}
+
+.words  {
+
+text-align: center;
+font-family: Verdana;
+visibility: hidden;
+
+}
+
+.word2  {
+
+display: inline-block;
+font-family: Verdana;
+font-size: 20px;
+visibility: hidden;
+
+}
+
+.words2  {
+
+text-align: center;
+font-family: Verdana;
+
+}
+
+.firstGroup  {
+
+text-align: center;
+
+}
+
+.button1  {
+
+width: 40px;
+height: 40px;
+font-family: Verdana;
+font-size: 17px;
+background: #EA4335;
+color: white;
+
+}
+
+.secondGroup  {
+
+text-align: center;
+
+}
+
+.button2  {
+
+width: 40px;
+height: 40px;
+font-family: Verdana;
+font-size: 17px;
+background: #FBBC05;
+color: white;
+
+}
+
+.thirdGroup  {
+
+text-align: center;
+
+}
+
+.button3  {
+
+width: 40px;
+height: 40px;
+font-family: Verdana;
+font-size: 17px;
+background: #34A853;
+color: white;
+
+}
+
+.fourthGroup  {
+
+text-align: center;
+
+}
+
+.button4  {
+
+width: 40px;
+height: 40px;
+font-family: Verdana;
+font-size: 17px;
+background: #3B5998;
+color: white;
+
+}
+
+.fifthGroup  {
+
+text-align: center;
+
+}
+
+.button5  {
+
+width: 40px;
+height: 40px;
+font-family: Verdana;
+font-size: 17px;
+background: #dac292;
+color: white;
+
+}
+
+.sixthGroup  {
+
+text-align: center;
+
+}
+
+.button6  {
+
+width: 40px;
+height: 40px;
+font-family: Verdana;
+font-size: 17px;
+background: #bc5a45;
+color: white;
+
+}
+
+.seventhGroup  {
+
+text-align: center;
+
+}
+
+.button7  {
+
+width: 40px;
+height: 40px;
+font-family: Verdana;
+font-size: 17px;
+background: #ffc0cb;
+color: white;
+
+}
+
+
+.fifth, .sixth, .seventh, .eighth, .nineth, .tenth, .eleventh , .twelveth  {
+
+margin-left: 5px;
+
+}
+
+.score  {
+
+position: absolute;
+margin-left: 220px;
+margin-top: 0px;
+padding: 5px;
+width: 60px;
+height: 30px;
+border: 1px solid #55ACEE;
+border-radius: 5px;
+font-size: 25px;
+font-family: Tahoma;
+text-align: center;
+background: #55ACEE;
+color: white;
+
+}
+
+.bc  {
+
+width: 50px;
+height: 50px;
+border: 1px solid deepskyblue;
+
+}
+
+.minds  {
+
+float: right;
+margin-right: 200px;
+margin-top: -550px;
+text-align: center;
+
+}
+
+.purple1  {
+
+background: purple;
+
+}
+
+.black1  {
+
+background: black;
+	
+}
+
+.newGame  {
+
+text-align: center;
+text-transform: uppercase;
+font-family: Arial;
+color: orange;
+cursor: context-menu;
+
+}
+
+.centerButtons  {
+
+text-align: center;
+
+}
+
+.h3  {
+
+width: 200px;
+height: 30px;
+font-family: Arial;
+background: #55ACEE;
+color: white;
+display: inline-block;
+text-align: center;
+cursor: context-menu;
+margin-left: 50px;
+padding: 0px;
+
+}
+
+.h3:hover  {
+
+background: #FBBC05;
+
+}
+
+button, .score, .bc  {
+
+visibility: hidden;
+
+}
