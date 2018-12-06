@@ -1,0 +1,2 @@
+# Hangman
+Hangman game-classic game in which you have to reveal hidden word.You have to click on buttons to guess your word.Button will become purple if word is correct, if is not it goes black.Seven mistakes stops the game.Then below the board will appear text to click if you want to continue the game.Game contains 10 levels, every level adds and takes points.Game is developed in HTML,CSS,JS, and JQuery.
